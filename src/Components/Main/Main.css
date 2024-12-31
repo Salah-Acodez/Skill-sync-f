@@ -1,0 +1,8 @@
+.main_container{
+    width: 75vw;
+    margin: 2vh auto;
+    /* background-color: tomato; */
+    display: flex;
+    gap: 2rem;
+    height: 90vh;
+}

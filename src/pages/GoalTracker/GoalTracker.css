@@ -1,0 +1,52 @@
+.goal_tracker_container{
+    background-color: #FFFFFF70;
+    margin-top: 2rem;
+    height: 90%;
+    width: 100%;
+    padding: 32px;
+    border-radius: 56px;
+}
+
+.goal_tracker_header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.goal_tracker_header h1 {
+    font-family: Roboto;
+    font-size: 24px;
+    font-weight: 600;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;
+    color: #172774CC;    
+}
+
+.goal_tracker_header button {
+    background-color: #07DF8A;
+    border: 1px solid #FFFFFF80;
+    padding: 10px 18px;
+    border-radius: 24px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 8px;
+}
+.goal_tracker_header button img {
+    width: 28px;
+}
+
+.goal_tracker_header button span {
+    font-family: Roboto;
+    font-size: 18px;
+    font-weight: 500;
+    text-align: left;
+    text-underline-position: from-font;
+    text-decoration-skip-ink: none;    
+    color: #FFFFFF;
+}
+
+
+

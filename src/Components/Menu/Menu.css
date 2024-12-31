@@ -1,0 +1,23 @@
+.menu_container{
+    display: flex;
+    align-items: center;
+    /* background-color: aquamarine; */
+}
+.menu_wrapper ul{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 1rem;
+}
+
+.menu_wrapper ul li{
+    list-style: none;
+    max-width: 52px;
+}
+.menu_wrapper ul li:hover{
+    cursor: pointer;
+}
+
+.menu_wrapper ul li img{
+    width: 100%;
+}
